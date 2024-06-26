@@ -202,8 +202,6 @@ typedef struct {
 
 查看编译后的文件，发现`user.img`文件大小恰好为`127.875MiB`
 
-![alt text](image.png)
-
 整个磁盘的结构：
 ```text
         [ boot.img | kernel.img |                      user.img                      ]
