@@ -1,5 +1,7 @@
 # ToyOS Final
 
+实验讲义与注意事项：左侧栏选择[Wiki](https://git.nju.edu.cn/WhereIsTheCatsTail/oslab2024spring/-/wikis/home)
+
 省略平时作业代码实现以及最终持久化大作业实现，只是提供相关思路。
 
 ## 持久化大实验
